@@ -45,4 +45,3 @@ printf("I have not found any two element which meet the requirement.");
 }
 return 0;
 }
-OUTPUT:
